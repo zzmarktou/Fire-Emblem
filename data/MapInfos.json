@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"加尔古·马库大修道院","order":1,"parentId":0,"scrollX":1241.3333333333333,"scrollY":3390.3333333333335},
+{"id":2,"expanded":true,"name":"大厅一楼","order":2,"parentId":1,"scrollX":620.6666666666666,"scrollY":1023.6666666666666},
+{"id":3,"expanded":false,"name":"大厅二楼","order":3,"parentId":1,"scrollX":620.6666666666666,"scrollY":800.3333333333334},
+{"id":4,"expanded":true,"name":"苏谛斯幻境","order":4,"parentId":0,"scrollX":626,"scrollY":416.3333333333333},
+{"id":5,"expanded":false,"name":"杰拉尔特家","order":5,"parentId":0,"scrollX":626,"scrollY":416.3333333333333},
+{"id":6,"expanded":true,"name":"场景切换","order":6,"parentId":0,"scrollX":626,"scrollY":416.3333333333333},
+{"id":7,"expanded":false,"name":"露米尔村外","order":7,"parentId":0,"scrollX":626,"scrollY":416.3333333333333}
+]

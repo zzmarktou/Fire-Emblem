@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":5,"characterName":"!Flame","classId":1,"equips":[1,1,2,3,0],"faceIndex":7,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"？？？","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"艾黛尔贾特","characterIndex":0,"characterName":"艾黛尔贾特","classId":2,"equips":[2,1,2,3,4],"faceIndex":0,"faceName":"艾黛尔贾特","traits":[],"initialLevel":1,"maxLevel":99,"name":"艾黛尔贾特","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"帝弥托利","characterIndex":0,"characterName":"帝弥托利","classId":2,"equips":[3,1,2,3,4],"faceIndex":0,"faceName":"帝弥托利","traits":[],"initialLevel":1,"maxLevel":99,"name":"帝弥托利","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"库罗德","characterIndex":0,"characterName":"库罗德","classId":2,"equips":[4,1,2,3,4],"faceIndex":0,"faceName":"库罗德","traits":[],"initialLevel":1,"maxLevel":99,"name":"库罗德","nickname":"","note":"","profile":""}
+]
